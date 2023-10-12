@@ -117,7 +117,7 @@ accuracy value:
 
 ![Screenshot 2023-10-02 134500](https://github.com/22008496/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119476113/141703d7-86e8-4a26-9239-45f4a44439ec)
 
-classification report:
+prediction of LR:
 
 ![Screenshot 2023-10-02 134520](https://github.com/22008496/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119476113/1114b5b2-ec0d-44b8-9b0c-c142314da445)
 
