@@ -89,31 +89,31 @@ placement data:
 
 ![Screenshot 2023-10-02 134240](https://github.com/22008496/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119476113/bf474ed9-4a90-4e4d-9fb8-69d6be0e3056)
 
-salary data:
+checking the null() function:
 
 ![Screenshot 2023-10-02 134254](https://github.com/22008496/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119476113/50e41841-a879-487e-8351-62facfc55b2e)
 
-checking the null() function:
+data duplicate:
 
 ![Screenshot 2023-10-02 134328](https://github.com/22008496/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119476113/ee49053e-50c4-4720-9584-c8cc5a7197d9)
 
-data duplicate:
+print data:
 
 ![Screenshot 2023-10-02 134408](https://github.com/22008496/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119476113/8206f9d9-15c2-47b3-a32e-5ef162744971)
 
-print data:
+data-status:
 
 ![Screenshot 2023-10-02 134425](https://github.com/22008496/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119476113/da53b860-0666-478e-9834-a90559fc026c)
 
-data status:
+y_prediction array:
 
 ![Screenshot 2023-10-02 134439](https://github.com/22008496/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119476113/36214a03-7e8b-4018-a9c9-4f29e02e0530)
 
-y_precidiction array:
+accuracy value:
 
 ![Screenshot 2023-10-02 134448](https://github.com/22008496/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119476113/aabf9bc6-9aa4-46b0-b00d-6035f0ab14b1)
 
-accuracy value:
+classification report:
 
 ![Screenshot 2023-10-02 134500](https://github.com/22008496/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119476113/141703d7-86e8-4a26-9239-45f4a44439ec)
 
@@ -121,7 +121,7 @@ prediction of LR:
 
 ![Screenshot 2023-10-02 134520](https://github.com/22008496/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119476113/1114b5b2-ec0d-44b8-9b0c-c142314da445)
 
-precidicted of LR:
+salary data:
 
 ![Screenshot 2023-10-02 134545](https://github.com/22008496/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119476113/7e2c9992-5a20-42cc-85ce-ab3a2d03f06f)
 
